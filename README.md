@@ -1,2 +1,2 @@
 # countSign
-this is a something...
+this is a some program, go away
